@@ -1,4 +1,5 @@
-/*
+/*Patrick Quan, MWF, 10/7/26
+ *
 How the Single-Index Hack Works
 
 When you write mat[r][c], the compiler parses it from
